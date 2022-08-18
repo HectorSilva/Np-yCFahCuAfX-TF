@@ -1,0 +1,2 @@
+terraform -h # Ver la ayuda
+terraform fmt <archivo> # Dar formato al archivo
